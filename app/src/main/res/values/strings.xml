@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppSerVerBTXM</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Chat</string>
+    <string name="title_notifications">Phiếu Hẹn</string>
+    <string name="text_hello" translatable="false">Xin chào,</string>
+    <string name="please_login" translatable="false">Mời bạn đăng nhập</string>
+    <string name="default_image" translatable="false">Hình mặc định</string>
+    <string name="enter_employee_code" translatable="false">Tài khoản</string>
+    <string name="enter_pass" translatable="false">Mật khẩu</string>
+    <string name="forgot_pass" translatable="false">Quên mật khẩu?</string>
+</resources>
