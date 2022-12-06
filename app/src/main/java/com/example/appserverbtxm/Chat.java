@@ -37,7 +37,7 @@ public class Chat extends AppCompatActivity {
     private Socket mSocket;
     {
         try {
-            mSocket = IO.socket("http://192.168.1.173:3000");
+            mSocket = IO.socket("http://192.168.128.128:3000");
         } catch (URISyntaxException e) {}
     }
     EditText editMessage;
